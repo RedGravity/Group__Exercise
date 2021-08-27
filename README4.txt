@@ -9,4 +9,4 @@ GIT FILE
 ======
 ====
 THIS IS TEN LINES
-MORE OR less!!
+MORE OR LESS
